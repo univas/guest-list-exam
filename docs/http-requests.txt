@@ -23,8 +23,8 @@ REQUEST Body
 
 RESPONSE 200 OK 
 {
-  "name": "This is a test",
-  "email": "test@gmail.com",
+  "name": "Lidy Segura",
+  "email": "lidyber@gmail",
   "id": "1"
 }
 
